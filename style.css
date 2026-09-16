@@ -1,0 +1,50 @@
+body 
+{
+
+    background-image:url("../../CrossDevice/OPPO A95/storage/Pictures/Messenger/received_916377534518800.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    
+}
+
+
+
+li 
+{
+    list-style: none;
+}
+
+li 
+{
+    font-size: 40px;
+}
+
+.fb-icon 
+{
+    display:inline-block;
+    text-decoration: none;
+    gap: 5px;
+    align-items: center;
+
+}
+
+.fb-icon img 
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    transition:0.3s;
+}
+
+.fb-icon img:hover
+{
+    transform: scale(1.1);
+}
+
+.fb-icon p
+{
+    font-size:10px;
+}
+
